@@ -1,2 +1,3 @@
 # demo-099d10
-Auto generated demo site for 小河原建設
+
+AIによって自動生成された 小河原建設 様向けのデモサイトです。
